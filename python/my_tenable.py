@@ -35,11 +35,11 @@ class my_tenable:
         }
         
         #tell it to go through a proxy
-        self.proxies = {
-            "http": "http://gateway.zscloud.net:80",
-            "https": "https://gateway.zscloud.net:80",
+#         self.proxies = {
+#             "http": "http://gateway.zscloud.net:80",
+#             "https": "https://gateway.zscloud.net:80",
 
-        }
+#         }
 
         self.session = requests.Session()
 
