@@ -1,7 +1,5 @@
 # References: pytenable.readthedocs.io
 
-# License: Mit
-
 # Author: Melmols 
 
 ## 16/10/2019
@@ -81,6 +79,7 @@ class my_tenable:
 
         # return response.text
         return print('getting all vulnerabilities...')
+    
     #---------------------------------------------------------# 
    
     @classmethod
