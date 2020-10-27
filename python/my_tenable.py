@@ -1,8 +1,8 @@
-#References: pytenable.readthedocs.io
+# References: pytenable.readthedocs.io
 
-#License: Mit
+# License: Mit
 
-#Author: Melmols 
+# Author: Melmols 
 
 ## 16/10/2019
 
