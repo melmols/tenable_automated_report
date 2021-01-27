@@ -108,7 +108,7 @@ class my_tenable:
         '''retrieves individual asset details based on their id'''
 
         
-        url = ("https://cloud.tenable.com/workbenches/assets/"+asset_id+"/vulnerabilities")
+        url = ("https://cloud.tenable.com/workbenches/assets/vulnerabilities")
 
         response =  self.session.get(url, proxies=self.proxies, headers=self.headers, verify=False)
 
